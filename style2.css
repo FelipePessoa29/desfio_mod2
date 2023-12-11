@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+body{background-color: #1E1E1E;}
+
+header{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    width: 60vh;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.second_main{
+    width: 100%;
+    height: 79vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.study_section{
+    display: flex;
+    height: 50vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 3.5vh;
+    border: solid;
+}
+
+.div_front{
+    display: flex;
+    width: 14vw;
+    background: transparent;
+    height: 51px;
+    font-family: Julius Sans One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+    bottom: 60vh;
+    right: 3vw;
+}
+.div_front img{
+    position: relative;
+    left: 1vh;
+}
+
+.h1_study{
+    width: 205px;
+    height: 51px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 6.5vw;
+}
+
+.h1_habilites{
+    width: 205px;
+    height: 51px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 3.5vw;
+}
+
+.h1_proff{
+    width: 205px;
+    height: 51px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 3vw;
+}
+
+.div_css{
+    width: 11vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 51px;
+    font-family: Julius Sans One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+    bottom: 60vh;
+    left: 2vw;
+}
+
+.div_jav{
+    width: 11vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 51px;
+    font-family: Julius Sans One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+    bottom: 50vh;
+    left: 3.5vw;
+}
+
+.div_habilites{
+    height: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: 4vw;
+    top: 5vh;
+}
+
+.div_proffe p{
+    height: 51px;
+    font-family: Julius Sans One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+    bottom: 57vh;
+    left: 2vw;
+}

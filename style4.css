@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+body{background-color: #1E1E1E;}
+
+.third_main{
+    padding-top: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 3.5vw;
+}
+
+.first_block{
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.letters_one h1{
+    width: 309px;
+    height: 51px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.letters_one h2{
+    width: 359px;
+    height: 51px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.letters_one p{
+    width: 271px;
+    height: 30px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.second_block{
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.letters_two h1{
+    width: 309px;
+    height: 51px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.letters_two h2{
+    width: 359px;
+    height: 51px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.letters_two p{
+    width: 271px;
+    height: 30px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+footer{
+    width: 100vw;
+    height: 14.8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.position{
+    width: 10vw;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.h1_nav{
+    width: 271px;
+    height: 30px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Julius Sans One;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.controler_one h1{
+    background-color: #FFF;
+    color: black;
+    box-shadow: 8px 8px 6px ;
+    width: 3vw;
+    height: 5.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+
+.controler_two h1{
+    background-color: #FFF;
+    color: black;
+    box-shadow: 8px 8px 6px ;
+    width: 3vw;
+    height: 5.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
